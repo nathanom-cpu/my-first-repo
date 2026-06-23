@@ -1,5 +1,5 @@
 def greet(name):
-    """Greet a user by naem."""
+    """Greet a user by name."""
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
